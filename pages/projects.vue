@@ -84,9 +84,14 @@
               <p class="text-menu-text font-fira_retina text-sm mb-5">
                 {{ project.description }}
               </p>
-              <a id="view-button" :href="project.url" target="_blank" class="text-white font-fira_retina py-2 px-4 w-fit text-xs rounded-lg">
+              <a id="view-button" :href="project.url" target="_blank" class="text-white font-fira_retina py-2 px-4 w-fit text-xs rounded-lg mr-4">
                   view-project
               </a>
+              <template v-if="project.link_to_project">
+              <a id="view-button" :href="project.link_to_project" target="_blank" class="text-white font-fira_retina py-2 px-4 w-fit text-xs rounded-lg">
+                site
+              </a>
+              </template>
             </div>
           </div>
         </div>
@@ -254,7 +259,7 @@ export default {
   },
   data() {
     return {
-      techs: ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'Gatsby', 'Flutter'],
+      techs: ['HTML', 'CSS', 'Vue', 'Java', 'Docker', 'Clojure', 'Flask', 'Python'],
       filters: ['all'],
       projects: '',
       loading: true,

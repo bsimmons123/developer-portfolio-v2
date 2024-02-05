@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Brandon Simmons",
+    "logo_name": "brandon-simmons",
+    "role": "Software-Developer/DevOps-Engineer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Software Engineer at Dataforma since June 2022, I maintain software applications using Kotlin and Vue.js with timely bug fixes. I also contribute in integrating the company's software with Intuit's Quickbook Java SDK for over a year now, working alone for a majority of the time. Currently at Dataforma, I have been doing research into Kubernetes (K8) and different deployment architectures for DevOps <br><br> During Fall 2021-2022, I served as a Computer Science Tutor at York College of Pennsylvania. I assisted students with their coding assignments and guided them to the appropriate solutions. I helped classes with 20+ students in a 101 class and provided nighttime tutoring for higher-level classes. <br><br>I also worked as a Simulation Tech at York College of Pennsylvania from Spring 2021-2022. Here, I was involved in providing technical and general support for the simulation program development used for healthcare training courses. I assisted with more than 10 simulations, ensuring everything was well set, functioning, and properly cleaned post-use."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Back-end/DevOps Developer, I possess extensive knowledge in designing and building scalable server-side software using languages like Kotlin and Java. I work with databases such as MySQL, PostgresSQL for data storage and retrieval. In terms of DevOps, I have practical experience with Docker and other containerization technologies that ensure consistent and reliable deployment of applications. I'm proficient with CI/CD pipelines, using tools like Gitlab CI/CD, and GitHub actions for automating the software development process. My understanding of cloud platforms like AWS and Digital Ocean aids in efficiently deploying, monitoring, and scaling applications."
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I bring more than just technical abilities. I am known for my problem-solving skills that allow me to tackle complex technical challenges. I possess strong communication skills that help me to articulate technical issues clearly to non-technical team members. My ability to work effectively in a team setting, adaptability to changing circumstances, and maintaining a positive attitude in high-pressure scenarios also sets me apart."
                     }
                 }
             },
@@ -28,17 +28,16 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> I'm a seasoned software engineer with 5 years of experience, specializing in web development. Recently, I've been expanding my professional terrain by delving into the fascinating world of DevOps. As part of this journey, I'm exploring new ways to streamline and future-proof internal workflows. <br><br> Apart from my day-to-day work, I maintain a strong interest in self-hosting my own service stacks. This is driven by my passion for discovering new software applications that can enhance efficiency in both my personal and professional life. <br><br> I'm also always on the lookout for innovative frameworks to add to my arsenal, with a key goal of substantially enhancing user experiences. Ultimately, I believe in the importance of constant learning, delivering quality, and driving perpetual improvement in every aspect."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br> Not only am I constantly learning, but I'm also actively pursuing my hobbies which happen to align well with my professional interests. One project I am particularly invested in is self-hosting software with a clear goal to 'deGoogle' and achieve independence from the cloud infrastructure. This empowers me to rely less on external services and push the boundaries of what's possible when you control the underlying systems. <br><br> I also find immense satisfaction in supporting my friends with their projects, offering advice and sharing insights from my own experiences. There's something really rewarding about being able to contribute to other people's success and seeing their ideas come to life. <br><br> Currently, my learning pathway has led me to Kubernetes and Sage software. As I delve deeper into Kubernetes, I am gaining valuable insights into container orchestration. Moreover, understanding Sage and other accounting software is not only enhancing my tech stack but also equipping me with a broader view of business operations."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br> I continued my academic pursuits at York College of PA, where I dove deeper into software development and refined my skillset. It was here that I not only honed in on the technical aspects of programming but also cultivated a rich understanding of team collaboration, problem solving, and project management. <br><br> Upon reflecting on my educational journey, I see a continual thread of ambition and dedication. It's this passion that fuels my ongoing quest for knowledge and spurs me on to stay on top of emerging trends and technologies in the rapidly evolving field of software engineering.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
                             "university": "The university..."
                         }
                     }
@@ -50,11 +49,15 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am an avid sports enthusiast and enjoy playing soccer and basketball with friends when I have time. I am also into working out and staying in shape as I find this helps me be more productive in all areas of my life."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br> I am an avid gamer, but I mainly like to play games with my friends. It is very seldom that I will play games by myself to relax. I would sooner work on one of my hobbies such as adding more applications to my self-hosted stack."
+                    },
+                    "hobbies": {
+                        "title": "hobbies",
+                        "description": "<br> In my free time I like to learn new things about different containerization software that I can use to deploy different open source applications like vaultwarden or nextcloud. I also like working on different personal projects such as Invstore (Which is currently in progress). Doing these projects helps me wind down and show appreciation for what I know and it allows me to give back to my friends by allowing them to use the services I host and create."
                     }
                 }
             }
@@ -64,99 +67,72 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "simmons.b2277@gmail.com",
+                "phone": "610-507-6971"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "bsimmons123"
             },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
-            },
-            "twitter": {
-                "title": "Twitter account",
-                "url": "https://twitter.com/",
-                "user": "username"
-            }
-        },
-        "find_me_also_in": {
-            "title": "find-me-also-in",
-            "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
-                "instagram": {
-                    "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
-                },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
+            "linkedin": {
+                "title": "Linkedin profile",
+                "url": "https://www.linkedin.com/in/",
+                "user": "brandon-simmons-145b88223"
             }
         }
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+        "1": "1249957ee526a12614f0efc89810448b",
+        "2": "5a49b2e9ded9685dea8ddf5c99d74a67",
+        "3": "cbfdf00e79c2f492a58bad961dbcb67e"
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_ycp_personalized_commencement ",
+            "description": "This is an interactive graduation for all Students at York College of Pennsylvania.",
             "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "tech": ["Java", "HTML", "CSS"],
+            "url": "https://github.com/bsimmons123/YCP_Personalized_Commencement"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_ezdocker_mysql",
+            "description": "This project is used to _create_ and _dump_ docker MySql containers easily using helper scripts.",
             "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "tech": ["Docker"],
+            "url": "https://github.com/bsimmons123/ezdocker_mysql"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_encoding_and_decoding_using_clojure",
+            "description": "A Clojure library designed to perform a Ceaser Cipher – ROT 13.",
             "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "tech": ["Clojure"],
+            "url": "https://github.com/bsimmons123/Encoding-and-Decoding-using-Clojure"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_rot13-gui",
+            "description": "A GUI to showcase a java implementation of ROT 13.",
             "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "tech": ["Java", "HTML", "CSS"],
+            "url": "https://github.com/bsimmons123/ROT13-gui"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_privilege_walk_web_app",
+            "description": "This solution not only restores the interactivity of the activity but also introduces additional benefits inherent to a web-based platform, such as enabling students to respond anonymously.",
             "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "tech": ["Java", "Vue", "HTML", "CSS", "Docker"],
+            "url": "https://github.com/EthanYCP/PrivilegeWalkWebApp",
+            "link_to_project": "https://privilege-walk.brandon-simmons.work"
         },
         "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
+            "title": "_invstore",
+            "description": "A personal pet project of mine, it doesn't have a set destination quite yet.",
             "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+            "tech": ["Python", "Flask", "Vue", "HTML", "CSS", "Docker"],
+            "url": "https://github.com/bsimmons123/invstore",
+            "link_to_project": "https://invstore.brandon-simmons.work"
         }
     }
 }
