@@ -133,6 +133,13 @@
             "tech": ["Python", "Flask", "Vue", "HTML", "CSS", "Docker"],
             "url": "https://github.com/bsimmons123/invstore",
             "link_to_project": "https://invstore.brandon-simmons.work"
+        },
+        "7": {
+            "title": "_robinhood-report-parser",
+            "description": "Robinhood Report Parser is a Python script designed to parse, summarize, and analyze financial report data from the Robinhood trading platform.",
+            "img": "/images/projects/robinhood.webp",
+            "tech": ["Python"],
+            "url": "https://github.com/bsimmons123/Robinhood-Report-Parser"
         }
     }
 }
