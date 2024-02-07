@@ -1,5 +1,5 @@
 <template>
-    <form id="contact-form" class="text-sm">
+    <form action="https://formsubmit.co/96b14fd689d13955f0f442574840e0df" method="POST" id="contact-form" class="text-sm">
         <div class="flex flex-col">
             <label for="name" class="mb-3">_name:</label>
             <input type="text" id="name-input" name="name" :placeholder="name" class="p-2 mb-5 placeholder-slate-600" required>
@@ -35,17 +35,6 @@ export default {
             required: true
         }
     },
-    mounted() {
-        document.getElementById("contact-form").addEventListener("submit", function(event) {
-            event.preventDefault();
-            const name = document.querySelector('input[name="name"]').value;
-            const email = document.querySelector('input[name="email"]').value;
-            const message = document.querySelector('textarea[name="message"]').value;
-            
-            // Here the code to send the email
-            
-        });
-    }
 }
 </script>
 

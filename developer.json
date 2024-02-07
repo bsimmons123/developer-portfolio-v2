@@ -82,6 +82,16 @@
                 "url": "https://www.linkedin.com/in/",
                 "user": "brandon-simmons-145b88223"
             }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "instagram": {
+                    "title": "Instagram account",
+                    "url": "https://www.instagram.com/",
+                    "user": "brandonsim77"
+                }
+            }
         }
     },
     "gists": {
